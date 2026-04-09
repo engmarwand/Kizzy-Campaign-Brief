@@ -39,7 +39,7 @@ export const Hero = () => (
       <div className="grid gap-6">
         <div className="bg-gradient-to-b from-zinc-900 to-zinc-950 border border-zinc-800 rounded-3xl p-8 shadow-2xl">
           <div className="font-mono text-xs tracking-widest uppercase text-purple-500 mb-4">Primary Mission</div>
-          <h3 className="text-xl font-bold mb-3">Get attention first. Then drive people to <code className="text-purple-400 font-mono bg-purple-500/10 px-2 py-1 rounded">kizzy.io/win</code>.</h3>
+          <h3 className="text-xl font-bold mb-3">Get attention first. Then drive people to <code className="text-purple-400 font-mono bg-purple-500/10 px-2 py-1 rounded">win.kizzy.io</code>.</h3>
           <p className="text-sm text-zinc-400 mb-6">Right now the app has geo and KYC friction. So your content should not try to over-sell direct deposits yet. The win is views, clicks, signups, and strong creative proof.</p>
           
           <div className="grid grid-cols-2 gap-3">
